@@ -1,9 +1,9 @@
-#### 🖐️: Hi, I am Peter.
-#### ✍️: I am studying about Software Engineering major at FPT University in Viet Nam
-#### 💻: I would like to develop software products so that people can have a good experience when using it.
-#### ⭐: I want to exchange my coding experience with everyone to overcome the weaknesses together.
-#### ️️🏸: I like to go out with my friends and play sports such as: swimming, soccer, badminton, gym, ...
-#### 🤜🤛 Contact with me: 
-#### 😍 Facebook: https://www.facebook.com/peter.dev.0606/
-#### 😍 Email: vanphuong.dev@gmail.com
-#### 👍 Code for fun - Code for job - Code for money 👍
+🖐️: Hi, I am Peter.
+✍️: I earned my degree in Software Engineering from FPT University in Vietnam.
+💻: My passion lies in developing software products to enhance user experiences.
+⭐: I'm eager to share my coding experiences with others to collectively overcome challenges.
+🏸: Outside of coding, I enjoy spending time with friends and playing sports like swimming, soccer, badminton, and hitting the gym.
+🤜🤛 Contact me:
+😍 Facebook: Peter's Facebook
+😍 Email: vanphuong.dev@gmail.com
+👍 Code for fun - Code for job - Code for money 👍
